@@ -92,7 +92,7 @@ class MainActivity : BaseActivity() {
         })
     }
 
-    private fun initCategory() {
+    private fun initCategory() { //метод отображения категорий
         val myRef = database.reference.child("Category")
         binding.progressBarCategory.visibility = View.VISIBLE
         val list = ArrayList<Category>()
