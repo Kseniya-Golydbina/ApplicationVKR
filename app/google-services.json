@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669394129166",
+    "project_id": "appvkr-d2889",
+    "storage_bucket": "appvkr-d2889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669394129166:android:357b465bdf9a955f86875f",
+        "android_client_info": {
+          "package_name": "ru.example.appvkr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNVKScFZPkaREs42dNGTXbo5bBInAu690"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
